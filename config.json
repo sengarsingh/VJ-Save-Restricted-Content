@@ -1,7 +1,11 @@
 {
+    
     BOT_TOKEN = os.environ.get("BOT_TOKEN","6746489857:AAFOGAmubH16HgoYiTQmC-yRjr6gMg9okNI",
+    
     API_ID = int(os.environ.get("API_ID","29939868"))
+    
     API_HASH = os.environ.get("API_HASH","1ee10fce7cb72aaf315b97f4b33decc0")
+   
     DB_URI = os.environ.get("DB_URI","mongodb+srv://pranchal1419:<password>@cluster0.gicdshq.mongodb.net/")
     
 }
